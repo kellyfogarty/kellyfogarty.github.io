@@ -1,4 +1,16 @@
 
+h1 {
+    font-size: 400%;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 150%;
+    font-style: bold;
+    text-decoration: underline;
+
 
 body {
     background: powderblue;
@@ -7,10 +19,4 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
-p { class="aligncenter";
-}
-
-h {
-    font-size: 400%;
-}
 
