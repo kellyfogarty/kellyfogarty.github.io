@@ -2,13 +2,6 @@ p {
 
 }
 
-body {
-    background:powderblue;
-    color: darkblue;
-    font-size: 16pt;
-    font-family: 'Oswald', sans-serif;
-]
-
 h1 {
     font-size: 400%;
     font-weight: bold;
@@ -21,8 +14,12 @@ h2 {
     font-style: bold;
     text-decoration: underline;
 
+}
 
+body {
+    background: powderblue;
+    color: darkblue;
+    font-size: 16pt;
+    font-family: 'Oswald', sans-serif;
 
-
-.title {
-    font-weight: bold; }
+}
